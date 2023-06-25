@@ -23,6 +23,6 @@ function BookEdit({ book, onSubmit }) {
       <button className="button is-primary">Save</button>
     </form>
   );
-}
+};
 
 export default BookEdit;
